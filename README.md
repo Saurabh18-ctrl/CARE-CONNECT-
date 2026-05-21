@@ -1,6 +1,6 @@
 # Care Connect Project
 
-A Customer Complaint Management System developed using Java Swing and MySQL.
+A Customer Complaint Management System developed using Java and MySQL.
 
 ## Features
 - Add Customer Complaints
